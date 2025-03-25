@@ -1,8 +1,9 @@
 # Google-News-Google-weather-Link-replacer
 Replaces the "Google weather" Redirect with any weather link you choose. 
-Replace the Link on line 20 with the weather provider of your choice. (In between " Qoutes" 
+Replace the Link on line 21 with the weather provider of your choice. (In between " Qoutes" 
 
 For Greasemonkey or similar extensions 
+COPY FROM HERE DOWN or download as text file and copy and paste 
 // ==UserScript==
 // @name         Google News Specific Weather Link Redirect
 // @namespace    http://tampermonkey.net/
